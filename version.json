@@ -1,7 +1,6 @@
 {
   "version": "1.1",
-  "notes": "HTS Mercek İlk Sürüm",
-  "exe_name": "HTSMercek.exe"
-
+  "notes": "Güncelleme açıklaması",
+  "setup_url": "https://github.com/aulukann-creator/htsm-up/releases/download/v1.1/HTSMercek_Setup.exe",
+  "sha256": ""
 }
-
